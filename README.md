@@ -1,1 +1,1 @@
-# odin-tic-tac-toe
+The project TIC TAC TOE consists of creating a very famous game in javascript using factory functions and modules.
